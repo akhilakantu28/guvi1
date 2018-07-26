@@ -1,3 +1,6 @@
+import java.util.Scanner;
+import java.util.*;
+
 class positive
 {
 public static void main(String args[])
