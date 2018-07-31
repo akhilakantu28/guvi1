@@ -18,7 +18,7 @@ class Ideone
 		k=s.nextInt();
 	
 		for(int i=n+1;i<k;i++)
-		{
+		{ int m=0;
 			int temp=i;
 	             	while(temp>0)
 		            {
@@ -28,8 +28,16 @@ class Ideone
 	                 	}
 	                      	if(count==i)
 	                      	{
+					if(m<1)
+					{
 	                      
-	                          System.out.println(i);
+	                                System.out.println(i);
+					}
+					else
+					{
+					System.out.println(" ");
+						System.out.println(i);
+					}m++
 	                    	}
 	                    
 		          count=0;
