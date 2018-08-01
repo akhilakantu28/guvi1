@@ -12,7 +12,7 @@ class Ideone
 		// your code goes here
 		int count=0;
 		Scanner sc=new Scanner(System.in);
-		String str1=" !@#$% &^*() _+}{: ><?|[ `].,' ";
+		String str1=" !@#$% &^*() +}{: ><?|[ `].,' ";
 		
         String str;
         str=sc.next();
