@@ -36,7 +36,7 @@ class Ideone
 		}
 		
 		          System.out.print(min);
-		         System.out.print(" ")
+		         System.out.print(" ");
 				System.out.print(max);
 		
 	}
