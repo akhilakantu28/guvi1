@@ -35,8 +35,9 @@ class Ideone
 		          min=a[i];
 		}
 		
-		          System.out.println(min);
-				System.out.println(max);
+		          System.out.print(min);
+		         System.out.print(" ")
+				System.out.print(max);
 		
 	}
 }
