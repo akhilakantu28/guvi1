@@ -31,6 +31,7 @@ class Ideone
 	      	    if(count==k)
 		      {
 			System.out.print(a[i]);
+			    break;
 	             	}
 		}
 	
