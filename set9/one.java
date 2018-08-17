@@ -21,7 +21,7 @@ class Ideone
 		}
 		else
 		{
-			res=n-m;
+			res=m-n;
 			System.out.print(res);
 		}
 		
