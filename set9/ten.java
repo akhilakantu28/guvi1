@@ -14,9 +14,9 @@ class Ideone
 		char c;
 		Scanner sc=new Scanner(System.in);
 		str=sc.next();
-		for(int i=0;i<=str.length();i++)
+		for(int i=0;i<str.length();i++)
 		{
-			c=(str.charAt(i));
+			c =(str.charAt(i));
 			if(Character.isDigit(c))
 			{
 				System.out.print(c);
