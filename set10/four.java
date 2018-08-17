@@ -15,7 +15,7 @@ class Ideone
 	           n=sc.nextInt();
 	           k=sc.nextInt();
 	           int a[]=new int[20];
-	           for(int i=1;i<=n;i++)
+	           for(int i=1;i<n;i++)
 	           {
 	           	a[i]=sc.nextInt();
 	           }
